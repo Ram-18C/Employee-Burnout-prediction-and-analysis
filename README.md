@@ -53,5 +53,27 @@ Key features considered for the prediction model:
    - Final model was serialized using `joblib`
    - Deployed into an HR dashboard for practical use
 
-## 📁 Folder Structure
+
+## 📌 Results
+
+- Achieved **85% model accuracy**
+- Improved data processing efficiency by **30%**
+- Helped HR teams proactively handle burnout cases
+
+## 🤝 Contributions
+
+This project was part of my internship with **EDUNET Foundation**, where I worked as an AI-ML Intern in June–August 2024.
+
+## 📬 Contact
+
+Feel free to connect:
+
+- **Name:** Pydi Ramachandra  
+- **Email:** ramachandra_puydi@srmap.edu.in  
+- [GitHub](https://github.com/Ramachandra-Pydi-18) | [LinkedIn](https://www.linkedin.com/in/ram-18r16a/)
+
+---
+
+> *"Prevention is better than cure — especially when it comes to employee burnout."*
+
 
